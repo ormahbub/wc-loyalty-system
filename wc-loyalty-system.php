@@ -4,6 +4,6 @@
  * Plugin URI: #
  * Description: Simple loyalty points system for WooCommerce.
  * Version: 1.0.0
- * Author: Md Mahbub Islam
+ * Author: Mahbub
  * Text Domain: wc-loyalty-system
  * **/
